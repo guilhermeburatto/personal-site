@@ -1,0 +1,198 @@
+/* Rascunho de cores */
+#rascunho {
+  color: #222831;
+  color: #393e46;
+  color: #00adb5;
+  color: #eeeeee;
+}
+
+body {
+  margin: -40px;
+  background-color: burlywood;
+  text-align: center;
+  font-family: 'Baloo Da 2', cursive;
+}
+
+h1 {
+  padding-top: 80px;
+  margin-left: auto;
+  margin-right: auto;  
+  font-size: 60px;
+  font-family: 'Share Tech Mono', monospace;
+  font-weight: lighter;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Share Tech Mono', monospace;
+}
+
+
+#oi {
+  margin-bottom: 50px;
+}
+
+
+#bio { 
+  margin-left: 30%;
+  margin-right: 30%;
+  text-align: justify;
+  padding: 20px;
+  background-color: burlywood;
+}
+
+#t1 {
+  margin-top: 20%;
+  margin-left: 45%;
+  margin-right: 50%;
+}
+
+#t2 {
+  margin-left: 50%;
+  margin-right: 45%;
+  margin-bottom: 100px;
+}
+
+#t3 {
+  margin-top: 100px;
+}
+
+#skill-img {
+  float: left;
+  margin-right: 30px;
+  margin-top: 60px;
+}
+
+#skill-img2 {
+  float: right;
+  margin-left: 30px;
+}
+
+#final {
+  margin-left: 30%;
+  margin-right: 30%;
+  text-align: center;
+}
+
+.meunome {
+  font-family: 'Pacifico', cursive;
+  font-weight: 100;
+}
+
+.top-container {
+  position: relative;
+  background-color: rgb(170, 217, 245);
+}
+
+.middle-container {
+  margin-top: 200px;
+  margin-bottom: 350px;
+}
+
+.bottom-container {
+  margin-top: 50px;
+}
+
+.profile-img {
+  height: 200px;
+}
+
+.skills-img {
+  height: 200px;
+}
+
+.skill-row {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+  line-height: 2;
+}
+
+.skill-row p {
+  line-height: 2;
+}
+
+.right-cupid-img, .left-cupid-img {
+  height: 180px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+}
+
+.right-cupid-img {
+  margin: -290px 0px 0px 180px;
+}
+
+.left-cupid-img {
+  margin: -280px 0px 0px -350px;
+}
+
+.cerebro {
+  margin-top: 200px;
+  margin-bottom: 150px;
+}
+
+.p-test {
+  background-color: red;
+  width: 200px;
+  display: block;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.span-test {
+  display: block;
+  background-color: blue;
+  width: 200px;
+}
+
+.contact-me {
+  background-color: rgb(170, 217, 245);
+  padding: 20px;
+}
+
+.btn {
+  color: #A15D30;
+}
+
+
+.linkedin {
+	width: 50px;
+	height: 50px;
+	margin: 10px;
+}
+.linkedin:hover {
+	filter: opacity(80%);
+}
+
+.twitter {
+	width: 50px;
+	height: 50px;
+	margin: 10px;
+}
+.twitter:hover {
+	filter: opacity(80%);
+}
+
+.instagram {
+	width: 50px;
+	height: 50px;
+	margin: 10px;
+}
+.instagram:hover {
+	filter: opacity(80%);
+}
+
+.facebook {
+	width: 50px;
+	height: 50px;
+	margin: 10px;
+}
+.facebook:hover {
+	filter: opacity(80%);
+}
